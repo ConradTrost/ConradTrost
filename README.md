@@ -1,9 +1,9 @@
-### Howdy, welcome to my GitHub! 
+### Howdy, and welcome to my GitHub! 
 
 #### Check out my [portfolio](http://trost.dev).
 
 #### I'm currently learning React.JS and algorithms.
-#### [Email me](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)! ;)
+#### [Email me](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)!
 
 <!--
 **retro1967/retro1967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
