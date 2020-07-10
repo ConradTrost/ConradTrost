@@ -1,6 +1,6 @@
 ### Howdy, welcome to my GitHub! 
 
-#### Check out my [portfolio)(http://trost.dev).
+#### Check out my [portfolio](http://trost.dev).
 
 #### I'm currently learning React.JS and algorithms.
 #### [Email me](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)! ;)
