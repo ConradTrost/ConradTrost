@@ -3,7 +3,7 @@
 #### Check out my [portfolio)(http://trost.dev).
 
 #### I'm currently learning React.JS and algorithms.
-#### <a href="mailto=conrad@trost.dev>Email me</a> if you'd like to collaborate (or if you're interested in hiring me)! ;)
+#### [Email me](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)! ;)
 
 <!--
 **retro1967/retro1967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
