@@ -4,8 +4,9 @@
 
 I'm currently learning **MongoDB** and **React.JS**.  
 
-Current Projects: 
+Current Project(s): 
   - Application incorporating **React.JS** and **Blockchain**, creating a fun way to exchange "ticks" or "internet points" between friends.  
+  - Side project exploring Three.js and WebGL to create animations based on third party API data -- more info coming soon!
 
 [**Email me**](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)!
 
