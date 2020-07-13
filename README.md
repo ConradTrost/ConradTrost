@@ -4,7 +4,8 @@
 
 I'm currently learning **MongoDB** and **React.JS**.  
 
-Current Project: Application incorporating **React.JS** and **Blockchain**, creating a fun way to exchange "ticks" or "internet points" between friends.  
+Current Projects: 
+  - Application incorporating **React.JS** and **Blockchain**, creating a fun way to exchange "ticks" or "internet points" between friends.  
 
 [**Email me**](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)!
 
