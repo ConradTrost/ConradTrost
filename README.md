@@ -2,12 +2,12 @@
 
 #### Check out my [portfolio](http://trost.dev).
 
-I'm currently learning **MongoDB** and **React.JS**.  
+I'm currently learning **TypeScript** and **React.JS**.  
 
 Current Project(s): 
   - Application incorporating **React.JS** and **Blockchain**, creating a fun way to exchange "ticks" or "internet points" between friends.  
   - Side project exploring **Three.JS** and **WebGL** to create animations based on third party API data -- more info coming soon!
-  - I am also planning on switching my porfolio from vanilla JavaScript to **Handlebars.JS** template to organize everything.
+  - I am also planning on switching my porfolio from vanilla JavaScript to **React** to improve organization and speed.
 
 [**Email me**](mailto:conrad@trost.dev?subject=[GitHub]) if you'd like to collaborate (or if you're interested in hiring me)!
 
