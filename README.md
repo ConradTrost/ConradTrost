@@ -5,6 +5,7 @@
 I'm currently learning **TypeScript** and **React.JS**.  
 
 Current Project(s): 
+  - Application using **React**, **GraphQL**, and TMDB API. Movie search engine that allows users to save a movie to their watchlist and add friends, with the ability to see their watchlist and add comments to movies.
   - Application incorporating **React.JS** and **Blockchain**, creating a fun way to exchange "ticks" or "internet points" between friends.  
   - Side project exploring **Three.JS** and **WebGL** to create animations based on third party API data -- more info coming soon!
   - I am also planning on switching my porfolio from vanilla JavaScript to **React** to improve organization and speed.
