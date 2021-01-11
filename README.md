@@ -1,6 +1,7 @@
 ### Howdy, and welcome to my GitHub! 
 
 #### Check out my [portfolio](http://trost.dev).
+#### Fidn me on [LinkedIn](https://www.linkedin.com/in/conradtrost/).
 
 I'm currently learning **TypeScript** and **React.JS**.  
 
