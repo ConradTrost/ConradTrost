@@ -3,7 +3,7 @@
 #### Check out my [portfolio](http://trost.dev).
 #### Find me on [LinkedIn](https://www.linkedin.com/in/conradtrost/).
 
-I'm currently learning **TypeScript** and **React.JS**.  
+I'm currently learning **Three.js** and **Gatsby.js**.  
 
 Current Project(s): 
   - Application using **React**, **GraphQL**, and TMDB API. Movie search engine that allows users to save a movie to their watchlist and add friends, with the ability to see their watchlist and add comments to movies.
